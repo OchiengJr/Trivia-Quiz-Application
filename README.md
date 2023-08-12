@@ -1,1 +1,2 @@
-Get ready for a fun moment with this trivia question application.
+# TRivia Quiz Application
+You can prepare for an enjoyable experience with this application that provides trivia questions.
